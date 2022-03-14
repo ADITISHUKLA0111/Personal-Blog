@@ -12,3 +12,7 @@ It is a blog website where a user can journal his/her day to day activities
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   </ul>
+  
+  # screenshots
+  ### Landin page
+  ![](
