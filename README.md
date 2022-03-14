@@ -15,4 +15,13 @@ It is a blog website where a user can journal his/her day to day activities
   
   # screenshots
   ### Landin page
-  ![](ScreenShots/ss1)
+  ![](ScreenShots/ss1.png)
+  
+ ### one can compose his/her post here
+ ![](ScreenShots/ss2.png)
+ 
+ ### one can delete his/her posts by ticking the checkbox in the bottom
+ ![](ScreenShots/ss3.png)
+ 
+ # The website is hosted [here](https://obscure-scrubland-88185.herokuapp.com/) 
+ 
