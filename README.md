@@ -25,3 +25,4 @@ It is a blog website where a user can journal his/her day to day activities
  
  ## The website is hosted [here](https://obscure-scrubland-88185.herokuapp.com/) 
  
+ 
