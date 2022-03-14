@@ -15,4 +15,4 @@ It is a blog website where a user can journal his/her day to day activities
   
   # screenshots
   ### Landin page
-  ![](
+  ![](ScreenShots/ss1)
