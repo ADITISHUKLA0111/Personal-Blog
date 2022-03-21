@@ -1,0 +1,16 @@
+<%- include("partials/header") -%>
+<h1><%= Topic %></h1>
+<p><%= para %></p>
+
+
+<div class="ff">
+    <form action="/delete" method="post" >
+        
+        <input type="checkbox" name="check" value="<%=pp%>" onChange="this.form.submit()" >
+        <label for="a">Delete the post</label>
+        
+    </form>
+    
+  </div>
+
+

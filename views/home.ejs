@@ -1,0 +1,28 @@
+<%- include("partials/header") -%>
+<h1>Home</h1>
+<p><%= p1 %></p>
+<% pp.forEach(function(e){  %> 
+<h1><%= e.title %></h1>
+<p><%= e.content.substring(0,100)+"..." %>
+     <a href="/posts/<%= e._id %>">Read more</a> 
+    <!-- post collection has title content and _id -->
+   
+</p>
+
+<% }); %>
+
+<!-- <%= console.log(pp); %> -->
+<%- include("partials/footer") -%>
+
+
+
+
+
+
+
+
+
+
+
+
+
